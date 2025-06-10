@@ -12,3 +12,9 @@ This project is a full-stack application using React.js for the frontend, Expres
 - Frontend: React.js
 - Middleware: Express.js, Node.js
 - Backend: MySQL
+
+## To run express js
+- node server.js
+
+## To run react js
+- npm start
